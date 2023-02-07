@@ -1,0 +1,46 @@
+.login-full{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height:100vh;
+  
+}
+.login{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #EFEFEF;
+}
+.foodlee-login{
+  height:50px;
+  width:150px;
+  margin:20px;
+}
+.login-input{
+  height:50px;
+  width:300px;
+  margin:20px;
+  border-radius: 13px;
+  border: 1px solid black;
+}
+.login-submit{
+  width:150px;
+  height:30px;
+  margin:30px;
+  border-radius: 11px;
+  background-color: #ffcc00;
+  border: 2px solid black;
+}
+.login-submit:hover{
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  border:none;
+}
+.login-in{
+  padding:60px;
+  background-color: #EFEFEF;
+  border-radius: 8px;
+
+}
