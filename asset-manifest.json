@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FoodLee/static/css/main.8eecb7b4.css",
+    "main.js": "/FoodLee/static/js/main.87f75323.js",
+    "static/js/787.fee03229.chunk.js": "/FoodLee/static/js/787.fee03229.chunk.js",
+    "static/media/background.jpg": "/FoodLee/static/media/background.200167ded4619b4efd2f.jpg",
+    "static/media/tiffin.jpg": "/FoodLee/static/media/tiffin.8e80e3bb5f96d796bba7.jpg",
+    "static/media/lunch.jpeg": "/FoodLee/static/media/lunch.a3852902b9cff5951b28.jpeg",
+    "static/media/shakes.jpg": "/FoodLee/static/media/shakes.b3a5c7734f7dd18bf48c.jpg",
+    "static/media/food-img-1.jpg": "/FoodLee/static/media/food-img-1.c2e731ab7e19badac5ce.jpg",
+    "static/media/Foodlee.png": "/FoodLee/static/media/Foodlee.d05de04afc285a65486a.png",
+    "index.html": "/FoodLee/index.html",
+    "main.8eecb7b4.css.map": "/FoodLee/static/css/main.8eecb7b4.css.map",
+    "main.87f75323.js.map": "/FoodLee/static/js/main.87f75323.js.map",
+    "787.fee03229.chunk.js.map": "/FoodLee/static/js/787.fee03229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eecb7b4.css",
+    "static/js/main.87f75323.js"
+  ]
+}
